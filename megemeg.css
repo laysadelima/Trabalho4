@@ -1,0 +1,81 @@
+img.imgLogo{
+	height: 50px;
+	width: 175px;
+	float: right;
+}
+
+img.aaaa{
+	width: 100%;
+	height: 450px;
+}
+
+h1.bla1{
+	font-family: 'Open Sans',sans-serif;
+	color: #fff;
+	font-size: 50px;
+	text-align: left;
+}
+p.blabla1{
+	font-size: 25px;
+	font-family: Lato,sans-serif;
+	color: #fff;
+	text-align: left;
+}
+
+.btn{
+	background-color: #FF82AB;
+}
+
+p.bbb{
+	text-align: center;
+	padding: 80px;
+}
+
+p.card-text{
+	color: #FF82AB;
+	text-align: center;
+}
+
+p.card-text2{
+	text-align: center;
+}
+
+img.card-img{
+	width: 250px;
+	height: 250px;
+}
+
+h1.bla2{
+	font-family: 'Open Sans',sans-serif;
+	color: #fff;
+	font-size: 20px;
+	text-align: left;
+}
+
+img.insta1{
+	height: 75%; 
+	width: 105%;
+}
+
+img.insta2{
+	height: 75%; 
+	width: 105%;
+	margin-left: -1%;
+}
+
+img.insta3{
+	height: 75%; 
+	width: 105%;
+	margin-left: -3%;
+}
+
+img.insta4{
+	height: 75%; 
+	width: 105%;
+	margin-left: -5%
+}
+
+img.imgs{
+	width: 102%;
+	height: 70%;
+}
